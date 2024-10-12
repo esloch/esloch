@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sandro Loch (esloch)
 
 🌐 Let's Connect and Collaborate!  
-[LinkedIn](https://www.linkedin.com/in/sandro-loch-988a7611b/) | [x.com/esloch](https://x.com/esloch)  
+[LinkedIn](https://www.linkedin.com/in/sandro-loch-988a7611b/) | [x.com/esloch](https://x.com/esloch)  Replace <YOUR_GITHUB_USERNAME> with your Git
 
 ✨ **Fun Facts**
 - I’m passionate about Open Source projects and actively contribute to the global developer community, sharing knowledge and building impactful solutions.
@@ -23,4 +23,7 @@ I’m an experienced **Full-Stack DevOps Engineer** and **Open-Source Software D
 🚀 I’m constantly looking for opportunities to collaborate on **DevOps**, **Backend Development**, and **Data Science** projects. My commitment to open-source development has driven me to contribute to communities like **OpenScienceLabs**, where we work towards creating solutions that have a real-world impact on public health and technology innovation.
 
 📫 Feel free to reach out if you'd like to collaborate or discuss exciting projects!  
-- Pronouns: he/him  
+- Pronouns: he/him
+
+![GitHub Metrics](https://github.com/esloch/esloch/blob/main/github-metrics.svg)
+
