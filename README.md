@@ -6,7 +6,7 @@
 ## ✨ Fun Facts
 - I’m passionate about Open Source projects and actively contribute to the global developer community, sharing knowledge and building impactful solutions.
 - I had the great opportunity to collaborate on the **InfoDengue** project, contributing to data-driven public health solutions.
-- Currently working on **mentalhealthai-org** and **thegraphnetwork**, focusing on leveraging data for mental health and academic research projects, using advanced technologies to address real-world challenges.
+- Currently working on mentalhealthai-org, thegraphnetwork, and the LiteRev project, focusing on leveraging data for mental health and academic research. These projects involve utilizing advanced technologies to tackle real-world challenges, such as processing and analyzing large-scale datasets to support public health initiatives and academic research across multiple disciplines.
 - In my free time, I enjoy being in contact with nature, spending quality time with my family, and exploring different cultures, flavors, and aromas.
 
 ## 🧑‍💻 About Me
