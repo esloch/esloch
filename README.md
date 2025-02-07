@@ -10,19 +10,18 @@ I am a **Full-Stack DevOps Engineer** and **Open-Source Contributor**, specializ
 - **DevOps & Automation**: Docker, Ansible, GitHub Actions, Celery, APScheduler  
 - **Networking & Infrastructure**: Linux Servers, DNS, DHCP, Group Policy, Hybrid PABX Systems  
 - **CI/CD & Testing**: GitHub Actions, deployment pipelines, unit testing  
+- **Security & Compliance**: ITIL best practices, data integrity, process automation  
 - **Visualization & Reporting**: Plotly, Matplotlib, Highcharts  
 - **Package Management**: Conda, Poetry, Pip  
 - **Tools & Technologies**: Elasticsearch, Redis, NGINX, Let’s Encrypt  
-- **Security & Compliance**: ITIL best practices, data integrity, and process automation
 
 ## 🚀 Open-Source Contributions  
-I actively contribute to **high-impact projects**, leveraging technology for **public health, scientific research, and AI-driven solutions**:  
-- **LiteRev** – AI-powered scientific literature review and data retrieval.  
-- **InfoDengue** – Epidemiological data analysis and predictive modeling.  
-- **MyMHAI** – AI-driven mental health analytics platform.  
-- **SecondDx** – AI-assisted diagnostic support system.  
+I actively contribute to **high-impact open-source projects**, leveraging technology for **scientific research, data accessibility, and AI-driven solutions**:  
+- **es-journals** – Automated retrieval of the latest BioRxiv and MedRxiv papers, integrating them with existing datasets for real-time scientific literature updates.  
+- **InfoDengue** – Epidemiological data analysis and predictive modeling for public health.  
 - **EpiGraphHub** – Epidemiological data integration and visualization.  
-- **RAGO** – Retrieval-Augmented Generation (RAG) for document search.  
+- **RAGO** – Retrieval-Augmented Generation (RAG) for AI-assisted document search.  
+- **PySUS** – Data processing library for analyzing datasets from the Brazilian Unified Health System (SUS).  
 
 ## 📄 CV & Contact  
 📄 [**View My CV (2025)**](https://github.com/esloch/cv/blob/main/pdf/Curriculum_Sandro_Loch_2025.pdf)  
