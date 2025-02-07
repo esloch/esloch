@@ -10,7 +10,6 @@ I am a **Full-Stack DevOps Engineer** and **Open-Source Contributor**, specializ
 - **DevOps & Automation**: Docker, Ansible, GitHub Actions, Celery, APScheduler  
 - **Networking & Infrastructure**: Linux Servers, DNS, DHCP, Group Policy, Hybrid PABX Systems  
 - **CI/CD & Testing**: GitHub Actions, deployment pipelines, unit testing  
-- **Security & Compliance**: ITIL best practices, data integrity, process automation  
 - **Visualization & Reporting**: Plotly, Matplotlib, Highcharts  
 - **Package Management**: Conda, Poetry, Pip  
 - **Tools & Technologies**: Elasticsearch, Redis, NGINX, Let’s Encrypt  
