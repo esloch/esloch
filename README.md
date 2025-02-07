@@ -1,31 +1,35 @@
-# 👋 Hi, I'm Sandro Loch (esloch)
+# 👋 Hi, I'm Sandro Loch (esloch)  
 
-## 🛠️ About Me  
-I am a **Full-Stack DevOps Engineer** and **Open-Source Contributor** specializing in **Django**, **Docker**, **Celery**, **PostgreSQL**, **NGINX**, and **Linux Server Administration**. My expertise spans **automation, infrastructure as code (IaC), and scalable architectures**, focusing on high-impact projects in **public health, data science, and cloud infrastructure**.
+## 🔹About Me  
+I am a **Full-Stack DevOps Engineer** and **Open-Source Contributor**, specializing in **backend development, automation, and scalable infrastructures**. My expertise spans **CI/CD pipelines, infrastructure automation, data-driven solutions, and DevOps best practices**, supporting **scientific research, public health, and AI-powered applications**.  
 
-### 🔹 Key Skills & Expertise  
-- **CI/CD & Automation**: GitHub Actions, Ansible, Celery  
-- **Infrastructure & Cloud**: Docker, Kubernetes, NGINX, MinIO  
-- **Backend Development**: Django, Django Rest Framework, Python  
-- **Data & Observability**: PostgreSQL, Elasticsearch, Prometheus  
-- **Security & Compliance**: Best practices in DevOps & ITIL  
+## 🛠️ Key Skills & Technologies  
+- **Programming & Scripting**: Python, SQL, Bash  
+- **Web Development & APIs**: Django, Django Rest Framework, Django ORM, Bootstrap  
+- **Data Management & Analysis**: PostgreSQL, SQLAlchemy, Bucardo, MinIO, Pandas, Dask, Ibis  
+- **DevOps & Automation**: Docker, Ansible, GitHub Actions, Celery, APScheduler  
+- **Networking & Infrastructure**: Linux Servers, DNS, DHCP, Group Policy, Hybrid PABX Systems  
+- **CI/CD & Testing**: GitHub Actions, deployment pipelines, unit testing  
+- **Security & Compliance**: ITIL best practices, data integrity, process automation  
+- **Visualization & Reporting**: Plotly, Matplotlib, Highcharts  
+- **Package Management**: Conda, Poetry, Pip  
+- **Tools & Technologies**: Elasticsearch, Redis, NGINX, Let’s Encrypt  
+- **Security & Compliance**: ITIL best practices, data integrity, and process automation
 
 ## 🚀 Open-Source Contributions  
-I actively contribute to **high-impact projects**, leveraging technology for public health, scientific research, and AI-driven solutions:  
-- **LiteRev** – AI-powered literature review for academic research.  
-- **InfoDengue** – Real-time epidemiological data analysis for public health.  
+I actively contribute to **high-impact projects**, leveraging technology for **public health, scientific research, and AI-driven solutions**:  
+- **LiteRev** – AI-powered scientific literature review and data retrieval.  
+- **InfoDengue** – Epidemiological data analysis and predictive modeling.  
 - **MyMHAI** – AI-driven mental health analytics platform.  
 - **SecondDx** – AI-assisted diagnostic support system.  
 - **EpiGraphHub** – Epidemiological data integration and visualization.  
-- **RAGO** – Retrieval-Augmented Generation for document search.  
+- **RAGO** – Retrieval-Augmented Generation (RAG) for document search.  
 
-## 🔍 Looking to Collaborate?  
-I’m open to opportunities in **DevOps, Backend Development, and AI-driven solutions**. Feel free to reach out!  
-
+## 📄 CV & Contact  
+📄 [**View My CV (2025)**](https://github.com/esloch/cv/blob/main/pdf/Curriculum_Sandro_Loch_2025.pdf)  
+📫 **Email**: es.loch@gmail.com  
 
 ## 🌐 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/sandro-loch-988a7611b/) | [GitHub](https://github.com/esloch) | [X (Twitter)](https://x.com/esloch)  
-
-📫 **Contact**: es.loch@gmail.com  
 
 ---
