@@ -1468,7 +1468,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">fix-semantic-release</span>
+                                        <span class="code">fix-release-dry</span>
                                         in
                                         <span class="repo">esloch/pydantic-to-django-model</span>
                                     </div>
@@ -1489,8 +1489,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb0e333</div>
-                                        <div class="message">fix(ci): Rename job in the release workflow (#5)</div>
+                                        <div class="sha">#a9a6e93</div>
+                                        <div class="message">fix(ci) Add token variable for release workfow (#6)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1503,12 +1503,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 fix(ci): Rename job in the release workflow</span>
+                                        <span class="issue">#6 fix(ci) Add token variable for release workfow</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">esloch/pydantic-to-django-model</span></div>
-                                    <div>1 file changed <span class="code">++3 --5</span></div>
+                                    <div>1 file changed <span class="code">++2 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1520,12 +1520,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 fix(ci): Rename job in the release workflow</span>
+                                        <span class="issue">#6 fix(ci) Add token variable for release workfow</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">esloch/pydantic-to-django-model</span></div>
-                                    <div>1 file changed <span class="code">++3 --5</span></div>
+                                    <div>1 file changed <span class="code">++2 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1538,7 +1538,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">fix-semantic-release</span>
+                                        <span class="code">fix-release-dry</span>
                                         in
                                         <span class="repo">esloch/pydantic-to-django-model</span>
                                     </div>
