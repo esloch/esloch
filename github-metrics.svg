@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1142" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1252" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.track{align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .infos{flex-grow:1}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description{white-space:normal;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.keyword{color:#b44418}.token.string{color:#2777aa}.token.tag{color:#48428a}.token.operator{color:#106cbc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1484,51 +1484,223 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#18 List open data sources about discussions between patients and doctors</span>
+                                        <span class="issue">#23 List the any library or LLM model for Suicide Score, such as [C-SSRS](https://pcl.psychiatry.uw.edu/wp-content/uploads/2021/12/C-SSRS.pdf),  [Suicidal Ideation Attributes Scale (SIDAS)](https://nceph.anu.edu.au/research/tools-resources/suicidal-ideation-attributes-scale-sidas), and [SAD PERSONS Scale](https://en.wikipedia.org/wiki/SAD_PERSONS_scale)</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by xmnlab in <span class="repo">telehealthcareai/telehealthcareai.github.io</span></div>
-                                    <div class="comment">Here are some open data sources related to discussions between patients and doctors:
+                                    <div class="comment">
+                                        Here are key tools and models for suicide risk assessment, categorized by type:
+                                        <b>1. Clinical Assessment Tools</b>
+                                        Columbia-Suicide Severity Rating Scale (C-SSRS)  
 
-MedDialog Dataset:
-
-Description: This dataset contains conversations between doctors and patients, available in both English and Chinese. The English version has 0.26 million dialogues, while the Chinese version has 1.1 million dialogues[1][3][7].
-Source: The English data is sourced from healthcaremagic.com and icliniq.com, while the Chinese data comes from haodf.com[3][7].
-
-
-MTS-Dialog Dataset:
-
-Description: This dataset includes 1.7k short doctor-patient conversations along with corresponding summaries. It is designed for clinical note generation from doctor-patient encounters[5].
-Source: Available on GitHub, with an augmented dataset created via back-translation[5].
+Type: Evidence-based clinical questionnaire  
+Use: Assesses suicidal ideation/behavior severity  
+Languages: Available in 103 languages  
+C-SSRS PDF
 
 
-Simulated OSCE Medical Conversations Dataset:
+Suicidal Ideation Attributes Scale (SIDAS)  
 
-Description: This dataset features simulated medical interviews in the format of Objective Structured Clinical Examinations (OSCE), focusing on various medical cases like respiratory, musculoskeletal, and cardiac conditions[1].
-Source: Created by resident doctors and medical students, available in audio and text formats[1].
-
-
-CDC Open Data:
-
-Description: While not specifically focused on doctor-patient conversations, the CDC offers various health-related datasets that might be useful for broader research contexts[6].
+Type: 5-item self-report tool  
+Use: Quantifies suicide ideation frequency and controllability  
+SIDAS Details
 
 
-NHS England Data Sets:
+SAD PERSONS Scale  
 
-Description: Collects information from care records and systems, though specific datasets on doctor-patient conversations may not be directly available[8].
+Type: 10-item clinical checklist  
+Use: Rapid risk stratification (Sex, Age, Depression, etc.)  
+SAD PERSONS Scale
+                                        <b>2. LLM Models for Suicide Risk Detection</b>
+                                        MentalRoBERTa  
+
+Platform: Hugging Face  
+Specialization: Pretrained on mental health texts for detecting suicidal ideation in social media posts.
+
+
+CRISIS-LE  
+
+Platform: Custom implementations  
+Specialization: Analyzes crisis counseling conversations using transformer architectures.
+
+
+SuicideBERT  
+
+Platform: Research implementations  
+Specialization: BERT-based model fine-tuned on suicide-related Reddit posts.
+
+
+MentaLLaMA  
+
+Platform: Hugging Face  
+Specialization: General mental health analysis with suicide risk evaluation capabilities.
+                                        <b>3. Python Libraries for Implementation</b>
+                                        Transformers (Hugging Face)  
+
+Use: Deploy models like MentalRoBERTa
+                                        <code class="language-multiline language-python" xml:space="preserve"><span class="token keyword">from</span> transformers <span class="token keyword">import</span> pipeline
+suicide_detector <span class="token operator">=</span> pipeline<span class="token punctuation">(</span><span class="token string">"text-classification"</span><span class="token punctuation">,</span> model<span class="token operator">=</span><span class="token string">"mental-roberta-base"</span><span class="token punctuation">)</span></code>
+                                        spaCy  
+
+Use: Extract clinical entities from text:
+                                        <code class="language-python">nlp<span class="token punctuation">.</span>add_pipe<span class="token punctuation">(</span><span class="token string">"eds.suicide"</span><span class="token punctuation">)</span>  <span class="token comment"># Using EDS-Suicide component</span></code>
+                                        Risk-LENS  
+
+Library: Custom toolkit  
+Features: Integrates PHQ-9/SAD PERSONS scoring with NLP analysis.
+                                        <b>Key Implementation Considerations</b>
+                                        Ethical Safeguards: Always pair automated tools with human oversight  
+Data Privacy: Use anonymization for sensitive health data  
+Clinical Validation: Tools should supplement (not replace) professional assessment
+
+For real-world deployment, combine these tools with crisis response protocols (e.g., emergency contact prompts, resource linking).
+Citations:
+[1] https://pcl.psychiatry.uw.edu/wp-content/uploads/2021/12/C-SSRS.pdf
+[2] https://nceph.anu.edu.au/research/tool
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#22 List devices that could be integrated into the system, like [smart rings](https://www.amazon.com/s?k=oura+health+ring&amp;adgrpid=170989630546&amp;hvadid=723789164118&amp;hvdev=c&amp;hvlocphy=20084&amp;hvnetw=g&amp;hvqmt=b&amp;hvrand=13082917277626940559&amp;hvtargid=kwd-372262606526&amp;hydadcr=28207_14736747&amp;mcid=9b441c7b20f23e5a9ca82cec0fbf291a&amp;tag=hydglogoo-20&amp;ref=pd_sl_2tmbwguqy5_b)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by xmnlab in <span class="repo">telehealthcareai/telehealthcareai.github.io</span></div>
+                                    <div class="comment">Here are some devices that could be integrated into a mental health support system:
+
+Smartphones and Tablets:
+
+Description: These devices can run mental health apps that provide support, monitor behavior, and offer interventions like cognitive-behavioral therapy (CBT)[1][4].
+Use Cases: Accessing mental health resources, tracking mood, and receiving real-time support.
+
+
+Wearable Devices (e.g., Fitbits, Apple Watches):
+
+Description: These devices can track physiological data such as heart rate, activity levels, and sleep patterns, which are useful for monitoring mental health[2][5].
+Use Cases: Monitoring stress levels, detecting changes in behavior, and providing biofeedback.
+
+
+Smart Rings (e.g., Oura Ring, Happy Ring):
+
+Description: Some smart rings include features like electrodermal activity (EDA) sensors for stress management[7].
+Use Cases: Continuous stress monitoring and personalized stress management strategies.
+
+
+Biofeedback Devices:
+
+Description: These devices measure physiological parameters like skin conductance or muscle tension, providing real-time feedback on stress levels[3].
+Use Cases: Practicing relaxation techniques and managing stress.
+
+
+Smart Pill Dispensers:
+
+Description: IoT-enabled devices that help patients remember to take their medications by sending reminders[3].
+Use Cases: Ensuring medication adherence for mental health conditions.
+
+
+Smart Speakers and Virtual Assistants:
+
+Description: These devices can deliver mental health interventions like mindfulness exercises or CBT techniques through voice interactions[3].
+Use Cases: Accessing mental health resources and receiving guided therapy sessions.
+
+
+Wearable Patches (e.g., Lief Smart Patch):
+
+Description: These patches can monitor physiological data and provide biofeedback to help manage anxiety[2].
+Use Cases: Reducing anxiety levels through real-time feedback and interventions.
+
+
+
+These devices can be integrated into a comprehensive mental health support system to provide continuous monitoring, personalized interventions, and accessible care.
+Citations:
+[1] https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment
+[2] https://pmc.ncbi.nlm.nih.gov/articles/PMC9919280/
+[3] https://academicstrive.com/HRPSJ/HRPSJ180033.pdf
+[4] https://eithealth.eu/news-article/5-mental-health-start-ups-transforming-healthcare/
+[5] https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.672347/full
+[6] https://pmc.ncbi.nlm.nih.gov/articles/PMC9501104/
+[7] https://www.feeltherapeutics.com/post/wearable-technology-in-mental-health
+[8] https://pubs.aip.org/aip/acp/article/3188/1/080034/3324700/Wearable-devices-in-psychiatry-A-novel-way-of
+[9] https://www.xr.health/blog/wearable-technology-for-mental-health/
+[10] https://pmc.ncbi.nlm.nih.gov/articles/PMC8414307/</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#21 List python libraries for supporting mental health issues/disorders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by xmnlab in <span class="repo">telehealthcareai/telehealthcareai.github.io</span></div>
+                                    <div class="comment">Here are some Python libraries that can be used to support mental health issues or disorders:
+
+NLTK (Natural Language Toolkit):
+
+Description: Useful for text processing and sentiment analysis, which can help identify mental health indicators from user inputs.
+Use Cases: Analyzing text data for emotional cues, sentiment analysis.
+
+
+spaCy:
+
+Description: Provides advanced NLP capabilities such as entity recognition and dependency parsing, which can be used to understand complex mental health-related texts.
+Use Cases: Identifying specific mental health terms or entities in text data.
+
+
+Transformers (Hugging Face):
+
+Description: Offers a wide range of pre-trained models for various NLP tasks, including those relevant to mental health analysis.
+Use Cases: Fine-tuning models for mental health-related text classification or generation tasks.
+
+
+Scikit-learn:
+
+Description: A machine learning library that can be used to build classification models for predicting mental health conditions based on user data.
+Use Cases: Developing predictive models for mental health conditions like depression or anxiety.
+
+
+TensorFlow/Keras or PyTorch:
+
+Description: Deep learning frameworks that can be used to develop more complex models for mental health analysis, such as neural networks for sentiment analysis or predictive modeling.
+Use Cases: Building deep learning models for advanced mental health analysis tasks.
+
+
+Rasa:
+
+Description: A framework for building contextual AI assistants and chatbots, useful for creating mental health support systems.
+Use Cases: Developing chatbots that provide personalized mental health guidance and support.
+
+
+LangChain:
+
+Description: A library for building applications with large language models, useful for creating advanced mental health chatbots.
+Use Cases: Integrating with models like ChatOpenAI to create proactive mental health intervention tools.
 
 
 
 Citations:
-[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC9203765/
-[2] https://www.altexsoft.com/blog/medical-datasets/
-[3] https://huggingface.co/datasets/UCSD26/medical_dialog
-[4] https://guides.lib.uw.edu/hsl/data/findclin
-[5] https://github.com/abachaa/MTS-Dialog
-[6] https://open.cdc.gov/data.html
-[7] https://www.kaggle.com/datasets/xuehaihe/medical-dialogue-dataset
-[8] https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets</div>
+[1] https://computronicslab.com/product/self-identifying-mental-health-status-and-get-guidance-for-support-using-ai/
+[2] https://github.com/souvikcseiitk/Student-Mental-Health-Chatbot
+[3] https://nevonprojects.com/ai-mental-health-therapist-chatbot-using-python/
+[4] https://arxiv.org/pdf/2403.05568.pdf
+[5] https://www.andela.com/blog-posts/ai-health-innovation-building-a-mental-health-chatbot-using-fastapi-langchain-and-openai-in-python
+[6] https://www.webjunction.org/news/webjunction/mental-health-peer-support-at-the-library.html
+[7] https://www.linkedin.com/posts/oyedeleayomide_datascience-mentalhealth-dataanalysis-activity-7275281454199103488-us_3</div>
                                 </div>
                             </section>
                         </div>
@@ -1536,16 +1708,77 @@ Citations:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#690 Create Backup Script for Docker Volumes</span>
+                                        Commented on
+                                        <span class="issue">#20 List LLM models (in different platforms) for mental health issues/disorders</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">thegraphnetwork-literev/LiteRev</span></div>
+                                    <div>opened by xmnlab in <span class="repo">telehealthcareai/telehealthcareai.github.io</span></div>
+                                    <div class="comment">
+                                        Here's a list of LLM models across different platforms that are relevant to mental health issues or disorders:
+                                        <b>Hugging Face Models</b>
+                                        MentaLLaMA-chat-13B:
+Description: Part of the MentaLLaMA project, designed for interpretable mental health analysis.
+Use Cases: Suitable for complex mental health analyses.
+
+
+MentaLLaMA-chat-7B:
+Description: Smaller version of MentaLLaMA-chat-13B, also for mental health analysis.
+Use Cases: Ideal for applications requiring smaller models.
+
+
+MentalBART:
+Description: Based on BART-large, optimized for mental health tasks without instruction-following capabilities.
+Use Cases: Suitable for completion-based mental health analysis.
+
+
+Mental-Alpaca:
+Description: Fine-tuned Alpaca model for mental health prediction tasks.
+Use Cases: Effective for predicting depressive symptoms and suicide risk.
+                                        <b>Other Platforms</b>
+                                        ChatGPT:
+Platform: OpenAI
+Description: General-purpose model used in psychiatry for clinical support and educational roles.
+Use Cases: Supports therapists in assessment and treatment phases, aids in symptom management.
+
+
+GPT-4:
+Platform: OpenAI
+Description: Advanced model with applications in clinical reasoning, social media analysis, and education.
+Use Cases: Effective in generating psychodynamic formulations and diagnosing psychiatric conditions.
+
+
+Med-PaLM 2:
+Platform: Google
+Description: Medical domain-specific model that can accurately predict mental health diagnoses.
+Use Cases: Useful for differential diagnosis and generating comprehensive lists of diagnoses.
+
+
+MentalBERT and MentalRoBERTa:
+Platform: Various (originally developed by Ji et al.)
+Description: Domain-specific models pretrained on mental health information, effective in detecting depression and suicidal ideation.
+Use Cases: Suitable for analyzing social media posts for mental health concerns.
+                                        <b>Other Models</b>
+                                        Claude Opus:
+Platform: Anthropic
+Description: Advanced model with potential applications in psychiatry, though less studied than GPT-4.
+Use Cases: May be used for complex language tasks in mental health contexts.
+
+
+
+Citations:
+[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC11301767/
+[2] https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1422807/full
+[3] https://www.nature.com/articles/s44277-024-00010-z
+[4] https://www.nature.com/articles/s44184-024-00056-z
+[5] https://arxiv.org/abs/2403.15401
+[6] https://arxiv.org/abs/2401.02984
+[7] https://dl.acm.org/doi/10.1145/3643540
+[8] https://www.sciopen.com/article/10.26599/BDMA.2024.9020046
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1553,59 +1786,57 @@ Citations:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thegraphnetwork-literev/LiteRev</span>
+                                        Commented on
+                                        <span class="issue">#19 List hugging-face LLM models for mental health issues/disorders</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">implement-makim-task-backup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70245ab</div>
-                                        <div class="message">chore(makim): Disable 'schedule' task</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thegraphnetwork-literev/LiteRev</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">implement-makim-task-backup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fd46dd</div>
-                                        <div class="message">chore(makim): Disable 'schedule' task</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thegraphnetwork-literev/LiteRev</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">implement-makim-task-backup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2324959</div>
-                                        <div class="message">chore(deps): Update makim version</div>
-                                    </div>
+                                    <div>opened by xmnlab in <span class="repo">telehealthcareai/telehealthcareai.github.io</span></div>
+                                    <div class="comment">Here are some Hugging Face models related to mental health issues or disorders:
+
+MentaLLaMA-chat-13B:
+
+Description: This model is part of the MentaLLaMA project, designed for interpretable mental health analysis with instruction-following capability. It is fine-tuned on the IMHI dataset and performs well in downstream tasks[4].
+Use Cases: Suitable for complex mental health analyses and generating explanations for predictions.
+
+
+MentaLLaMA-chat-7B:
+
+Description: Similar to the 13B version, this model is also part of the MentaLLaMA project but is smaller. It is fine-tuned on the IMHI dataset and is effective for mental health analysis tasks[5].
+Use Cases: Ideal for applications requiring smaller models with good performance.
+
+
+MentalBART:
+
+Description: Another model in the MentaLLaMA project, MentalBART is based on the BART-large foundation model. It does not have instruction-following capabilities but is more lightweight and performs well in completion-based mental health analysis[6].
+Use Cases: Suitable for tasks where instruction-following is not necessary.
+
+
+Mental-LLM Models (Mental-Alpaca and Mental-FLAN-T5):
+
+Description: These models are fine-tuned versions of Alpaca and FLAN-T5, respectively, optimized for mental health prediction tasks via online text data. They show improved performance over larger models like GPT-3.5 and GPT-4[7].
+Use Cases: Ideal for tasks requiring high accuracy in mental health prediction.
+
+
+thrishala/mental_health_chatbot:
+
+Description: This model is a fine-tuned version of the Llama 2 model, designed for a virtual therapy chatbot. It provides personalized and empathetic responses for mental health support[3].
+Use Cases: Suitable for chatbot applications offering mental health support.
+
+
+
+Citations:
+[1] https://www.youtube.com/watch?v=vDXZJJcLAdI
+[2] https://huggingface.co/papers/2307.14385
+[3] https://huggingface.co/thrishala/mental_health_chatbot
+[4] https://huggingface.co/klyang/MentaLLaMA-chat-13B
+[5] https://huggingface.co/klyang/MentaLLaMA-chat-7B
+[6] https://huggingface.co/Tianlin668/MentalBART
+[7] https://github.com/neuhai/Mental-LLM
+[8] https://arxiv.org/abs/2306.16891</div>
                                 </div>
                             </section>
                         </div>
