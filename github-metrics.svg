@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1202" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1285" class="">
     <defs>
         <style/>
     </defs>
@@ -1468,6 +1468,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">hactar-4-rag-workflow</span></div>
                                     <div class="commit">
+                                        <div class="sha">#27a7a70</div>
+                                        <div class="message">fix(ci): Fix container setup directories</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27b8bb7</div>
+                                        <div class="message">refactor(rag): reuse _get_rag_generator for question_type with Hactar support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bb135b</div>
+                                        <div class="message">refactor(rag): reuse _get_rag_generator for classification and considerations with Hactar support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71a7625</div>
+                                        <div class="message">refactor(rag): improve queryset batching with consistent ordering and count</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95a7a9d</div>
+                                        <div class="message">feat(rag): add Hactar support for summary generation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5460ee0</div>
+                                        <div class="message">fix(score): prevent false faithfulness scores for empty or invalid answers (#311)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">thegraphnetwork-literev/literev-legal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">hactar-4-rag-workflow</span></div>
+                                    <div class="commit">
                                         <div class="sha">#177368b</div>
                                         <div class="message">fix(ci): Fix container setup directories</div>
                                     </div>
@@ -1545,26 +1585,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">thegraphnetwork-literev/literev-legal</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thegraphnetwork-literev/literev-legal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bugfix-faithfulness</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3215dd4</div>
-                                        <div class="message">fix(scoring): exclude invalid answers from faithfulness evaluation</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
