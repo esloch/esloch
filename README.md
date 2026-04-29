@@ -24,7 +24,7 @@ I actively contribute to **high-impact open-source projects**, leveraging techno
 - **PySUS** – Data processing library for analyzing datasets from the Brazilian Unified Health System (SUS).  
 
 ## 📄 CV & Contact  
-📄 [**View My CV (2025)**](https://github.com/esloch/cv/blob/main/pdf/Curriculum_Sandro_Loch_2025.pdf)  
+📄 [**View My CV (2026)**](https://github.com/esloch/cv/blob/main/pdf/Sandro_Loch_CV_EN2026.pdf)  
 📫 **Email**: es.loch@gmail.com  
 
 ## 🌐 Connect with Me  
