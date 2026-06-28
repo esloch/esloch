@@ -1,33 +1,120 @@
-# 👋 Hi, I'm Sandro Loch (esloch)  
+# Hi, I'm Sandro Loch
 
-## 🔹About Me  
-I am a **Full-Stack DevOps Engineer** and **Open-Source Contributor**, specializing in **backend development, automation, and scalable infrastructures**. My expertise spans **CI/CD pipelines, infrastructure automation, data-driven solutions, and DevOps best practices**, supporting **scientific research, public health, and AI-powered applications**.  
+## About Me
 
-## 🛠️ Key Skills & Technologies  
-- **Programming & Scripting**: Python, SQL, Bash  
-- **Web Development & APIs**: Django, Django Rest Framework, Django ORM, Bootstrap  
-- **Data Management & Analysis**: PostgreSQL, SQLAlchemy, Bucardo, MinIO, Pandas, Dask, Ibis  
-- **DevOps & Automation**: Docker, Ansible, GitHub Actions, Celery, APScheduler  
-- **Networking & Infrastructure**: Linux Servers, DNS, DHCP, Group Policy, Hybrid PABX Systems  
-- **CI/CD & Testing**: GitHub Actions, deployment pipelines, unit testing  
-- **Security & Compliance**: ITIL best practices, data integrity, process automation  
-- **Visualization & Reporting**: Plotly, Matplotlib, Highcharts  
-- **Package Management**: Conda, Poetry, Pip  
-- **Tools & Technologies**: Elasticsearch, Redis, NGINX, Let’s Encrypt  
+I'm a Platform & Infrastructure Engineer with a background in backend development, DevOps, and automation. My work focuses on designing, operating, and improving production systems that support scientific computing, public health, and AI-enabled applications.
 
-## 🚀 Open-Source Contributions  
-I actively contribute to **high-impact open-source projects**, leveraging technology for **scientific research, data accessibility, and AI-driven solutions**:  
-- **es-journals** – Automated retrieval of the latest BioRxiv and MedRxiv papers, integrating them with existing datasets for real-time scientific literature updates.  
-- **InfoDengue** – Epidemiological data analysis and predictive modeling for public health.  
-- **EpiGraphHub** – Epidemiological data integration and visualization.  
-- **RAGO** – Retrieval-Augmented Generation (RAG) for AI-assisted document search.  
-- **PySUS** – Data processing library for analyzing datasets from the Brazilian Unified Health System (SUS).  
+I enjoy working across the entire software lifecycle-from backend services and databases to Linux infrastructure, deployment pipelines, and operational automation. My approach is driven by reliability, maintainability, and understanding how systems behave in production.
 
-## 📄 CV & Contact  
-📄 [**View My CV (2026)**](https://github.com/esloch/cv/blob/main/pdf/Sandro_Loch_CV_EN2026.pdf)  
-📫 **Email**: es.loch@gmail.com  
+Over the past years, I've contributed to open-source projects involving epidemiological surveillance, scientific data platforms, AI-assisted information retrieval, and infrastructure modernization.
 
-## 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/sandro-loch-988a7611b/) | [GitHub](https://github.com/esloch) | [X (Twitter)](https://x.com/esloch)  
+---
 
+## Areas of Interest
+
+* Platform Engineering
+* Backend Development
+* Infrastructure Automation
+* DevOps
+* Scientific Computing
+* Research Software Engineering
+* Data Engineering
+* AI Workflows
+* Open Source
+
+---
+
+## Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* Bash
+
+### Backend
+
+* Django
+* Django REST Framework
+* Django ORM
+* REST APIs
+* Celery
+* APScheduler
+
+### Data Engineering
+
+* PostgreSQL
+* PostGIS
+* SQLAlchemy
+* Pandas
+* Dask
+* Ibis
+* Elasticsearch
+* MinIO
+
+### Infrastructure & DevOps
+
+* Linux
+* Docker
+* Docker Compose
+* NGINX
+* Gunicorn
+* Ansible
+* GitHub Actions
+* Conda
+* Poetry
+
+### Data Visualization
+
+* Plotly
+* Highcharts
+* Matplotlib
+
+---
+
+## Open Source
+
+I actively contribute to projects focused on scientific computing, epidemiological surveillance, and research software.
+
+Some of the projects I've contributed to include:
+
+* **InfoDengue** - Backend development, infrastructure, deployment, database maintenance, and platform modernization for epidemiological surveillance.
+* **PySUS** - Tools for processing and analyzing datasets from the Brazilian public healthcare system.
+* **EpiGraphHub** - Infrastructure and data engineering for epidemiological data integration and visualization.
+* **LiteRev / LiteRev Legal** - Infrastructure, backend development, and AI-assisted literature review workflows built with Django, Elasticsearch, Docker, and Celery.
+* **es-journals** - Automation pipelines for retrieving and indexing scientific publications.
+
+---
+
+## What I Enjoy Working On
+
+I enjoy solving operational and architectural problems by combining software engineering, infrastructure, automation, and data engineering.
+
+Some topics that frequently appear in my work include:
+
+* Production infrastructure
+* Performance optimization
+* Linux systems
+* Database design and optimization
+* Containerized applications
+* Automation pipelines
+* CI/CD
+* AI-assisted workflows
+* Scientific data platforms
+* Open-source software
+
+---
+
+## Current Focus
+
+I'm currently interested in improving production platforms by combining Python, modern infrastructure, and AI to build reliable and maintainable systems. I'm also exploring practical applications of large language models, computer vision, and automation within open-source ecosystems.
+
+---
+
+## Contact
+
+* Email: **[es.loch@gmail.com](mailto:es.loch@gmail.com)**
+* GitHub: **https://github.com/esloch**
+* LinkedIn: **[https://www.linkedin.com/in/sandro-loch-988a7611b](https://www.linkedin.com/in/esloch/)/**
+* X: **https://x.com/esloch**
 ---
